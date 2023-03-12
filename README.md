@@ -1,6 +1,6 @@
-# req_http
+# Req HTTP
 
-A new Flutter project.
+Projeto em Flutter para demonstrar a base de uma requisição HTTP.
 
 ## Getting Started
 
